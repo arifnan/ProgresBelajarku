@@ -1,1 +1,1 @@
-selamat datang di program awal
+hello world
